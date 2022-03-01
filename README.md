@@ -8,7 +8,7 @@ In engineering, transformation of coordinate system of the problem is often appl
 
 Fourier series is the represention of a function in terms of sines and consines of increasing frequencies.
 
-$$ f(x) = \frac{A(0)}{2}+\sum_{k=1}^{\infty} A(k)cos(kx)+B(k)sin(kx)  $$
+<img src="https://latex.codecogs.com/svg.image?f(x)&space;=&space;\frac{A(0)}{2}&plus;\sum_{k=1}^{n}&space;A(k)cos(kx)&plus;B(k)sin(kx)" title="f(x) = \frac{A(0)}{2}+\sum_{k=1}^{n} A(k)cos(kx)+B(k)sin(kx)" />
 
 ## Gibbs Phenomenon
 
